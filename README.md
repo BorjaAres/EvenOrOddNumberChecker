@@ -4,7 +4,7 @@ This is a simple JavaScript program that checks whether a given number is even o
 
 ## Usage
 
-1. Open the `index.html` file in a web browser.
+1. Open the `index.html` file in a web browser or follow this link: https://evenoddnumberchecker.netlify.app/
 2. The program will prompt you to enter a number.
 3. Enter a number of your choice.
 4. The program will display the result on the webpage, indicating whether the number is even or odd.
